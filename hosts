@@ -1,2 +1,2 @@
 [apache]
-13.59.224.60 ansible_ssh_user=ubuntu ansible_ssh_common_args='-i ~/Downloads/devops_ch.pem -o StrictHostKeyChecking=no'
+SERVER_IP ansible_ssh_user=ubuntu ansible_ssh_common_args='-i ~/Downloads/devops_ch.pem -o StrictHostKeyChecking=no'
